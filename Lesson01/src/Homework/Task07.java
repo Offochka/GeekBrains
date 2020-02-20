@@ -4,9 +4,9 @@ package Homework;
 public class Task07 {
     public static void main(String[]args){
 
-        name("Маша");
+      System.out.println(name("Маша"));
     }
-    public static void name(String с){
-        System.out.println("Привет," + с);
+    public static String name(String с){
+        return "Привет," + с;
     }
 }
