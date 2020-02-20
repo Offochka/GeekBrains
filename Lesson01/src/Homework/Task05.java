@@ -5,14 +5,9 @@ package Homework;
 public class Task05 {
     public static void main (String[]args) {
 
-        number(5);
+       System.out.println("Ваше число является" + ((number(5)?(" положительным"):(" отрицательным"))));
     }
-    public static void number(int n){
-        if (n >= 0) {
-            System.out.println("Ваше число является положительным");
-        } else {
-            System.out.println("Ваше число является отрицательным");
-        }
+    public static boolean number(int n){
+        return (n >= 0) ;
     }
-
 }
