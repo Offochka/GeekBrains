@@ -10,10 +10,6 @@ public class Task04 {
     }
     public static boolean Check (int a, int b) {
         int c = a + b;
-        if (c >= 10 && c <= 20){
-            return true;
-        }else{
-            return false;
-        }
+        return  (c >= 10 && c <= 20);
     }
 }
