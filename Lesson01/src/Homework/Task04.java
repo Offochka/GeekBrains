@@ -4,9 +4,8 @@ package Homework;
 вернуть true, в противном случае – false;*/
 public class Task04 {
     public static void main (String[]args){
-        boolean result = Check (15,1);
 
-        System.out.println(result);
+        System.out.println(Check (15,1));
     }
     public static boolean Check (int a, int b) {
         int c = a + b;

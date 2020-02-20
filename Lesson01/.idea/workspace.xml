@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9516f6c4-1b2d-41f5-9d9a-095c28267409" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Homework/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Task05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Task03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Task04.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,23 +26,23 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="77" />
+          <entry key="java" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="77" />
+          <entry key="JAVA" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1720" />
+          <entry key="java" value="1728" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1720" />
+          <entry key="JAVA" value="1728" />
         </counts>
       </usages-collector>
     </session>
@@ -49,14 +50,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Homework/Task05.java">
+        <entry file="file://$PROJECT_DIR$/src/Homework/Task04.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#475#476#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -78,13 +75,13 @@
       <list>
         <option value="$PROJECT_DIR$/src/Homework/Task02.java" />
         <option value="$PROJECT_DIR$/src/Homework/Task01.java" />
-        <option value="$PROJECT_DIR$/src/Homework/Task03.java" />
         <option value="$PROJECT_DIR$/src/Homework/Task06.java" />
         <option value="$PROJECT_DIR$/src/Homework/Task7.java" />
-        <option value="$PROJECT_DIR$/src/Homework/Task04.java" />
-        <option value="$PROJECT_DIR$/src/Homework/Task08.java" />
         <option value="$PROJECT_DIR$/src/Homework/Task07.java" />
         <option value="$PROJECT_DIR$/src/Homework/Task05.java" />
+        <option value="$PROJECT_DIR$/src/Homework/Task08.java" />
+        <option value="$PROJECT_DIR$/src/Homework/Task04.java" />
+        <option value="$PROJECT_DIR$/src/Homework/Task03.java" />
       </list>
     </option>
   </component>
@@ -129,7 +126,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582206943522" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582207228706" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -146,7 +143,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task05">
+  <component name="RunManager" selected="Application.Task06">
     <configuration name="Task03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework.Task03" />
       <module name="Lesson01" />
@@ -186,6 +183,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.Task06" />
+      <module name="Lesson01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework.Task07" />
       <module name="Lesson01" />
@@ -199,33 +209,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.Task08" />
-      <module name="Lesson01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Task08" />
       <item itemvalue="Application.Task03" />
       <item itemvalue="Application.Task04" />
       <item itemvalue="Application.Task05" />
       <item itemvalue="Application.Task07" />
+      <item itemvalue="Application.Task06" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task05" />
-        <item itemvalue="Application.Task07" />
-        <item itemvalue="Application.Task08" />
+        <item itemvalue="Application.Task06" />
         <item itemvalue="Application.Task04" />
         <item itemvalue="Application.Task03" />
+        <item itemvalue="Application.Task05" />
+        <item itemvalue="Application.Task07" />
       </list>
     </recent_temporary>
   </component>
@@ -396,35 +393,13 @@
     <entry file="file://$PROJECT_DIR$/Lesson01.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Homework/Task06.java">
+    <entry file="file://$PROJECT_DIR$/src/Homework/Task05.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Homework/Task07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Homework/Task08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -433,6 +408,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Homework/Task08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Homework/Task07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Homework/Task06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -445,8 +445,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Homework/Task03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#361#362#0" expanded="true" />
             <element signature="e#396#397#0" expanded="true" />
@@ -456,19 +456,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Homework/Task04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Homework/Task05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

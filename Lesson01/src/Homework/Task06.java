@@ -3,9 +3,8 @@ package Homework;
  метод должен вернуть true, если число отрицательное;*/
 public class Task06 {
     public static void main(String[] args) {
-        boolean result =  CheckNumber(9);
 
-        System.out.println(result);
+        System.out.println(CheckNumber(9));
     }
     public static boolean CheckNumber (int a){
         return (a < 0);
