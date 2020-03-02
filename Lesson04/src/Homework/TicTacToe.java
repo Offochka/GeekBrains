@@ -12,7 +12,6 @@ public class TicTacToe {
     private static final Random RANDOM = new Random();
     private static int Size;
     private static int dotWin;
-
     private static char[][] map;
 
     // выбор размера поля
@@ -148,7 +147,6 @@ public class TicTacToe {
             for (int i = 0; i < 7; i++) {
                 System.out.print("* ");
                 Thread.sleep(300);
-
             }
             System.out.println();
             pcTurn();
