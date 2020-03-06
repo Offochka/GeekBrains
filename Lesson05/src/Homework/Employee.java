@@ -1,14 +1,14 @@
 package Homework;
 
 public class Employee {
-    String name;
-    String surname;
-    String middlename;
-    String position;
-    String email;
-    int numberPhone;
-    int age;
-    int salary;
+    private String name;
+    private String surname;
+    private String middlename;
+    private String position;
+    private String email;
+    private int numberPhone;
+    private int age;
+    private int salary;
 
     public Employee(String name, String surname, String middlename, int age, String position, String email, int phoneNumber, int salary ) {
         this.name = name;
