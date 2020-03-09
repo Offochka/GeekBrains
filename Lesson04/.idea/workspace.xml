@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f921615b-6c5d-48c5-8d80-1719e5334cb6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson04/Homework/TicTacToe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson04/Homework/TicTacToe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson05/out/production/Lesson05/Homework/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson05/out/production/Lesson05/Homework/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson05/out/production/Lesson05/Homework/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson05/out/production/Lesson05/Homework/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +18,11 @@
     <session id="-30719225">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -51,14 +52,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Homework/TicTacToe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
+            <state relative-caret-position="432">
               <caret line="148" column="34" selection-start-line="148" selection-start-column="34" selection-end-line="148" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1926#1927#0" expanded="true" />
-                <element signature="e#1989#1990#0" expanded="true" />
-                <element signature="e#2077#2078#0" expanded="true" />
-                <element signature="e#2120#2121#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,7 +96,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,10 +118,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583117371594" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583789919611" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -202,7 +199,7 @@
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1933" height="1053" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992785" weight="0.096" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992785" visible="true" weight="0.096" />
       <window_info id="Structure" order="1" sideWeight="0.5007215" side_tool="true" weight="0.050133333" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -309,14 +306,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Homework/TicTacToe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
+        <state relative-caret-position="432">
           <caret line="148" column="34" selection-start-line="148" selection-start-column="34" selection-end-line="148" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1926#1927#0" expanded="true" />
-            <element signature="e#1989#1990#0" expanded="true" />
-            <element signature="e#2077#2078#0" expanded="true" />
-            <element signature="e#2120#2121#0" expanded="true" />
           </folding>
         </state>
       </provider>
