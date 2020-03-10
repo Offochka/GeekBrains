@@ -1,6 +1,6 @@
 package Homework;
 
-public class CheckAnimals {
+public class CheckAnimal {
     public static void main(String[] args) {
         System.out.println("Cats");
 

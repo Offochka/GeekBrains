@@ -1,6 +1,6 @@
 package Homework;
 
-public abstract class Animals {
+public abstract class Animal {
     public final double MaxHeighJump = 0;
     public final int MaxLenghtRun = 0;
     public final int  MaxLenghtSwim = 0;

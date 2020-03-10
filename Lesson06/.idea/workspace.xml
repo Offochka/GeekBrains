@@ -142,7 +142,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583796167004" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583800400691" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -156,7 +156,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CheckAnimal">
+    <configuration name="CheckAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.CheckAnimal" />
+      <module name="Lesson06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CheckAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework.CheckAnimals" />
       <module name="Lesson06" />
@@ -170,8 +183,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.CheckAnimals" />
+      <item itemvalue="Application.CheckAnimal" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckAnimal" />
         <item itemvalue="Application.CheckAnimals" />
       </list>
     </recent_temporary>

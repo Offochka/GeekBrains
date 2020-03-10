@@ -1,6 +1,6 @@
 package Homework;
 
-public class Cat extends  Animals {
+public class Cat extends  Animal {
     public final double MaxHeighJump = 2;
     public final int MaxLenghtRun = 200;
 
