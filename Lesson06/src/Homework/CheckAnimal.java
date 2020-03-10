@@ -2,19 +2,19 @@ package Homework;
 
 public class CheckAnimal {
     public static void main(String[] args) {
-        System.out.println("Cats");
 
-        Cat cat1 = new Cat();
-        cat1.run(250);
-        cat1.jump(1.5);
-        cat1.swim(5);
+        Cat c01 = new Cat("Murzik");
+        Cat c02 = new OtherCats("Barsik", 4, 400);
+        Dog d01 = new Dog("Sharik");
+        Dog d02 = new OtherDogs("Barbos",1.5,700,15);
 
-        System.out.println("Dogs");
+        Animal [] arrAnimal = {c01, c02, d01, d02};
 
-        Dog dog1 = new Dog();
-        dog1.run(5);
-        dog1.jump(10);
-        dog1.swim(1);
+        for (Animal Animal : arrAnimal) {
+            Animal.run(300);
+            Animal.jump(3);
+            Animal.swim(13);
+        }
     }
 }
 
